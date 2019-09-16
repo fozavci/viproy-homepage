@@ -27,12 +27,8 @@ https://github.com/fozavci/viproy-voipkit/blob/master/OTHERSUSAGE.md
 
 ## Talks & Videos
 
-### Slide Sets of the Talks
-Slide Share - Fatih Ozavci
-https://www.slideshare.net/fozavci/
-
 ### BSides Canberra, Australia 2017 - Departed Communications: Learn the ways to smash them 
-No video 
+https://www.slideshare.net/fozavci/departed-communications-learn-the-ways-to-smash-them
 
 ### Black Hat USA 2016 - VoIP Wars: The Phreakers Awaken
 https://www.slideshare.net/fozavci/voip-wars-the-phreakers-awaken<br>
