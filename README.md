@@ -5,9 +5,9 @@ Viproxy MITM Proxy and Testing Tools is developed using Metasploit Framework env
 
 ## Author
 Fatih Ozavci
-LinkedIn: https://au.linkedin.com/in/fozavci
-Slide Share: https://www.slideshare.net/fozavci
-Github: https://www.github.com/fozavci
+LinkedIn: https://au.linkedin.com/in/fozavci<br>
+Slide Share: https://www.slideshare.net/fozavci<br>
+Github: https://www.github.com/fozavci<br>
 
 ## Current Version and Updates
 Current version: 4.1 (Requires ruby 2.1.X and Metasploit Framework Github Repo) <br>
